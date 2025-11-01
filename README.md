@@ -1,6 +1,6 @@
 # Banking-Analysis-Project
--Power BI | Data Analytics | Banking Dashboard | SQL | Python | Loan Insights | Deposit Insights 
--Banking risk analysis dashboard that focuses on understanding loan performance, client behavior, and financial insights using real banking data
+- Power BI | Data Analytics | Banking Dashboard | SQL | Python | Loan Insights | Deposit Insights 
+- Banking risk analysis dashboard that focuses on understanding loan performance, client behavior, and financial insights using real banking data
   
 ## 📊 Problem Statement
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
@@ -49,9 +49,9 @@ Build an interactive Power BI Dashboard to analyze customer profiles, credit ris
 - GitHub – Project hosting and version control
 
 ## ⚙️ Steps Followed
--1️⃣ Data Cleaning & Preprocessing
--2️⃣ Exploratory Data Analysis (EDA)
--3️⃣ Dashboard Development in Power BI
+- 1️⃣ Data Cleaning & Preprocessing
+- 2️⃣ Exploratory Data Analysis (EDA)
+- 3️⃣ Dashboard Development in Power BI
 
  ## 🎨 Dashboard Preview
 Here’s a glimpse of the Power BI dashboard:  
@@ -71,6 +71,6 @@ Here’s a glimpse of the Power BI dashboard:
 - Strengthened skills in data visualization & interpretation
 
 ## 📧Author
-Akanksha Walde
-📍 Data Analyst Enthusiast | Power BI | Python | SQL
-🔗 https://www.linkedin.com/in/akanksha-walde-455042332
+- Akanksha Walde
+- 📍 Data Analyst Enthusiast | Power BI | Python | SQL
+- 🔗 https://www.linkedin.com/in/akanksha-walde-455042332
